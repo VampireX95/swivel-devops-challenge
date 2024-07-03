@@ -1,0 +1,5 @@
+# Normalize line endings
+* text=auto
+
+# Specify merge driver for specific files
+*.cs merge=ours

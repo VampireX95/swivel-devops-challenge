@@ -13,7 +13,7 @@ services:
       - sqlserverdata:/var/opt/mssql
 
   app:
-    image: yourdockerhubusername/devops-challenge-salesapi:latest
+    image: devops-challenge-salesapi:latest
     container_name: salesapi
     depends_on:
       - db
