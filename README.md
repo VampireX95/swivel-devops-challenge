@@ -10,7 +10,7 @@ In completing the challenge, you're welcome to change all aspects of the initial
 * Namespaces and class names.
 * Code, data, and settings files.
 * NuGet packages and dependencies.
-* This README!
+* This README!.
 
 The solution should embody best practices, even if the initial solution lacks them.
 
